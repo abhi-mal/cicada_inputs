@@ -55,3 +55,10 @@ mkdir -p /code/input_files
 ### 5. Generate CICADA Inputs
 
 Get the inputs using the generate_cicada_inputs.py script which can be run as usual using `python generate_cicada_inputs.py`
+
+
+### Data Source & Acknowledgments
+
+This project utilizes public open data from the CMS Collaboration. The specific datasets are available via the CERN Open Data Portal. This data is licensed under the Creative Commons CC BY 4.0 license.
+
+We gratefully acknowledge the CMS Collaboration for providing this data.
